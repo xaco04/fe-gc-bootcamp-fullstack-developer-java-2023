@@ -28,6 +28,14 @@
 
 
 ## C3 - Bases de dades SQL (MySQL)
+| Project | Code | Technologies |
+|----------|---------| --------|
+| TA12 - Diagramas ER 👥| [Repository](https://github.com/xaco04/xvm-fe-gc-ta12-ta13-ta15-ta16-team6-mysql-07-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light">  |
+| TA13 – Modelo Relacional 👥 | [Repository](https://github.com/xaco04/xvm-fe-gc-ta12-ta13-ta15-ta16-team6-mysql-07-23) |  <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
+| T15 - DDL 👥 | [Repository](https://github.com/xaco04/xvm-fe-gc-ta12-ta13-ta15-ta16-team6-mysql-07-23) [Repository](https://github.com/xaco04/xvm-fe-gc-ta15-ddl-08-23) | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
+| T16 - DML (I) 👥| [Repository](https://github.com/xaco04/xvm-fe-gc-ta12-ta13-ta15-ta16-team6-mysql-07-23)  | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
+| T17 - DML (II) | [Repository]() | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
+| EX02 - Prueba Bases de datos | [Repository]() | <img alt="Iconos" src="https://skillicons.dev/icons?i=mysql&theme=light"> |
 
 ## 4 - Desenvolupament orientat a objectes amb Java
 
